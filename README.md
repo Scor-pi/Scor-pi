@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Scor-pi
-- 👀 I’m interested in ... cybersecurity,pentesting  and AI 
-- 🌱 I’m currently learning ...python (tensorflow)
-- 💞️ I’m looking to collaborate on ... project to advance day to day life activities, security to end spam or yahoo and complete my long time dream 
+- 👀 I’m interested in ... data analyst, cybersecurity  and pentesting
+- 🌱 I’m currently learning ...data analyst,cybersecurity  and pentesting  using python 
+- 💞️ I’m looking to collaborate on ...learning and exploring  new knowledge  and code
 - 📫 How to reach me ...
 Yahayasulaimon20@gmail.com 
 <!---
